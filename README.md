@@ -59,6 +59,7 @@ for ([initialization]; [condition]; [iteration]) {
 }
 ```
 
+
 - Initialization
   - Typically used to initialize a **counter** variable.
 - Condition
